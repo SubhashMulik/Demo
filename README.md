@@ -1,4 +1,4 @@
 # Demo
 This is my first code
 
-Author - Subhash Mulik
+Author - Subhash Balasaheb Mulik
